@@ -46,8 +46,8 @@ endmodule
 
 ## Developed by:
 ```
-Name: SUSHIENDAR M
-Register Number: 212223040217
+Name: D.RAJESHWARAN
+Register Number: 212223040165
 ```
 
 ## Truth Table:
